@@ -167,6 +167,7 @@ public class ReformulacaoPkmn {
                         System.out.println("É impossível fugir.");
                         delay();
                         vj = atk(vj, ea);
+                    break;
                     default: 
                         System.out.println("Um guerreiro não pode errar em batalha.");
                         delay();
